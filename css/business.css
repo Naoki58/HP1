@@ -135,7 +135,7 @@
 
 .business_bg .btn {
   float: right;
-  width: 13px;
+  width: 13%;
   text-align: center;
   background: #24140e;
   padding: 10px 20px;
@@ -147,3 +147,6 @@
   font-size: 15px;
 }
 
+.business_bg .btn a:hover {
+  opacity: 0.5;
+}
